@@ -1,4 +1,4 @@
-# mon_classeur_PG3
+# mon_classeur
 Un dépot pour gérer mes cours
 
 
