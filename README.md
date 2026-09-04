@@ -1,5 +1,5 @@
-# mon_classeur
-Un dépot pour gérer mes cours
+# mon classeur
+Un classeur pour stocker mes cours de SI 
 
 
 ## Voici un titre de niveau 2
