@@ -33,4 +33,3 @@ Ce document est rédigé en [MarkDown](https://fr.wikipedia.org/wiki/Markdown).
 > Libre à vous de personaliser cette page à l'aide de la documentation
 >  du [MarkDown à la sauce GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-
 
-### modif codespace prime
