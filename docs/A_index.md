@@ -3,4 +3,4 @@
 - truc a mettre c juste pour check la liste bg
 
 ### image test
-![image](../image.jpeg)
+![image](./image.jpeg)
