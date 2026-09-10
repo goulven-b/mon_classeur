@@ -1,6 +1,17 @@
 # SOMMAIRE :
-- [Fiche de renseignements](Fiche_1SI.ipynb)
-- truc a mettre c juste pour check la liste bg
+- Projets réalisés en cours de 2GT
+- Projets réalisés en 1GT
+- Tests
 
-### image test
-![image](./image.jpeg)
+## Projets réalisés en cours de 2GT :
+
+- Projet de site internet : Breizh_sailing
+  Lien vers le site : 
+- ...
+
+## Projets réalisés en cours de 1GT :
+
+- Schéma de modélisation d'une cafetière sur DRAWIO :
+
+## Tests :
+![image](./Dossier%20images/image.jpeg)
