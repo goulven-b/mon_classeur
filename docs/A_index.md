@@ -5,13 +5,15 @@
 
 ## Projets réalisés en cours de 2GT :
 
-- Projet de site internet : Breizh_sailing
-  Lien vers le site : 
+- Projet de site internet : Breizh_sailing.
+
+   Lien vers le site : 
 - ...
 
 ## Projets réalisés en cours de 1GT :
 
-- Schéma de modélisation d'une cafetière sur DRAWIO :
+- Fiche de renseignements de 1GT3 : [fiche 1GT3](Fiche_1SI.ipynb)
+- Schéma de modélisation d'une cafetière sur DRAWIO, et le notebook asigné au développement de l'AFE : [Schéma AFE](./AFE/Analyse%20Fonctionnelle%20Externe.ipynb) ; [Notebook](./AFE/Analyse%20Fonctionnelle%20Externe.ipynb)
 
 ## Tests :
-![image](./Dossier%20images/image.jpeg)
+![image](./Prise%20en%20main/image.jpeg)
