@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="CS2hDLLFwx_rb6i781MH">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NB5hvu0bJit5i-cOIU85-12" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="400" width="400" x="180" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="thRDgbL_NJxrGF10Aiif-1" edge="1" parent="1" source="NB5hvu0bJit5i-cOIU85-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NB5hvu0bJit5i-cOIU85-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="400" />
+              <mxPoint x="155" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NB5hvu0bJit5i-cOIU85-1" parent="1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" value="Utilisateur" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NB5hvu0bJit5i-cOIU85-3" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Arrêter automatiquement le chauffage" vertex="1">
+          <mxGeometry height="80" width="175" x="285" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="NB5hvu0bJit5i-cOIU85-4" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Bouillir de l&#39;eau de manière automatique" vertex="1">
+          <mxGeometry height="80" width="175" x="285" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NB5hvu0bJit5i-cOIU85-6" parent="1" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" value="Arrêter manuellement le chauffage&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;{Refines = permettre&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;l&#39;arrêt manuel&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;du chauffage&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="175" x="285" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="thRDgbL_NJxrGF10Aiif-2" edge="1" parent="1" source="NB5hvu0bJit5i-cOIU85-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" target="NB5hvu0bJit5i-cOIU85-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
