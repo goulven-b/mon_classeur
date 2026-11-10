@@ -13,7 +13,7 @@
 
 - Objets connectés à partir de Quick-PI : [Notebook](./Quick-PI_Objets_connectés/)
 
-## Projets réalisés en cours de 1GT :
+## Projets réalisés en cours de 1G :
 
 - Fiche de renseignements de 1GT3 : [fiche 1GT3](./Prise%20en%20main/Fiche_1SI.ipynb)
 
